@@ -14,5 +14,5 @@ logger:
 
 system:
   host: "0.0.0.0"
-  post: 8080
-  env: dev
+  port: 8080
+  env: release
